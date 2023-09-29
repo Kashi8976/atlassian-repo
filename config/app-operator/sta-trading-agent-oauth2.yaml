@@ -9,6 +9,6 @@ stringData:
   client-authentication-method: client_secret_basic
   authorization-grant-types: client_credentials
   scope: bid
-  client-id: insert-client-id
-  client-secret: insert-client-secret
-  issuer-uri: insert-issuer-uri
+  client-id: sta_atlassian
+  client-secret: b8de01ce-9ea2-4f0a-9167-03e5f7908c20
+  issuer-uri: https://login.sso.az.run.withtanzu.com
